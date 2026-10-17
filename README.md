@@ -149,49 +149,27 @@ For a larger system:
 🛠️ Tech Stack
 
 Languages & Frameworks
-
 Python
-
 FastAPI
-
 Pydantic
-
 Database
-
 SQLite (demo)
-
 PostgreSQL (production recommendation)
-
 API & Server
-
 REST API
-
 Uvicorn
-
 Architecture & Patterns
-
 Idempotency
-
 Event-driven architecture
-
 Webhooks
-
 Asynchronous processing
-
 Message queues
-
 Transactional Outbox Pattern
-
 Production Technologies
-
 Redis
-
-Kafka / Amazon SQS / RabbitMQ
-
+Kafka / Amazon SQS
 PostgreSQL
-
 Dead Letter Queue
-
 Distributed tracing & monitoring
 
 ## Why return 200 for a duplicate?
